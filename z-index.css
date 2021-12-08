@@ -1,0 +1,32 @@
+img{
+    height: 300px;
+    width: 300px;
+    position: absolute;
+    margin: 50px;
+    
+}
+.index1{
+    top:10px;
+    left: 10px;
+    border: brown solid 3px;
+    z-index: -1;
+}
+.index2{
+    top:50px;
+    left: 50px;
+    border: rgb(28, 204, 12) solid 3px;
+    z-index: 0;
+}
+.index3{
+    top:100px;
+    left: 100px;
+    border: rgb(16, 141, 190) solid 3px;
+    z-index: -1;
+}
+.Newid{
+    margin: 20px;
+}
+h1{
+    text-align: center;
+    color: brown;
+}
